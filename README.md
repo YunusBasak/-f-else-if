@@ -1,1 +1,1 @@
-# Tip Dönüşümleri konusu hakkında başlangıç düzeyinde örnekler içeren readme dosyasıdır.
+# If-ElseIf-Ternary-If konusu hakkında başlangıç düzeyinde örnekler içeren readme dosyasıdır.
